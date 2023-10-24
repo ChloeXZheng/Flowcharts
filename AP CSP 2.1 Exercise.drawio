@@ -1,44 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T16:14:05.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="GDu5Yq4hBSRNgt6-NJOU" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T16:02:49.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="c7T1xzVZDBSZaHQ1hArQ" version="22.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="og7yTKFJyKVAj1SIktSK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="og7yTKFJyKVAj1SIktSK-4">
+        <mxCell id="og7yTKFJyKVAj1SIktSK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="og7yTKFJyKVAj1SIktSK-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="You get a piece of paper." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Connect the previous line and the first line at their free ends." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="560" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="og7yTKFJyKVAj1SIktSK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="og7yTKFJyKVAj1SIktSK-4" target="og7yTKFJyKVAj1SIktSK-6">
+        <mxCell id="og7yTKFJyKVAj1SIktSK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="og7yTKFJyKVAj1SIktSK-4" target="og7yTKFJyKVAj1SIktSK-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="og7yTKFJyKVAj1SIktSK-4" value="You get a pencil." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="og7yTKFJyKVAj1SIktSK-4" value="You get a pencil." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="og7yTKFJyKVAj1SIktSK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="og7yTKFJyKVAj1SIktSK-6" target="og7yTKFJyKVAj1SIktSK-7">
+        <mxCell id="og7yTKFJyKVAj1SIktSK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="og7yTKFJyKVAj1SIktSK-6" target="og7yTKFJyKVAj1SIktSK-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="og7yTKFJyKVAj1SIktSK-6" value="You draw a line on the paper with the pencil." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="og7yTKFJyKVAj1SIktSK-6" value="You draw a line on the paper with the pencil." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="210" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="og7yTKFJyKVAj1SIktSK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="og7yTKFJyKVAj1SIktSK-7" target="og7yTKFJyKVAj1SIktSK-10">
+        <mxCell id="og7yTKFJyKVAj1SIktSK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="og7yTKFJyKVAj1SIktSK-7" target="og7yTKFJyKVAj1SIktSK-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="og7yTKFJyKVAj1SIktSK-7" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;You draw another line the same length as the pervious line and meeting at the end with a 90 degree angle.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="og7yTKFJyKVAj1SIktSK-7" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;You draw another line the same length as the pervious line and meeting at the end with a 90 degree angle.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="290" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="og7yTKFJyKVAj1SIktSK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="og7yTKFJyKVAj1SIktSK-10" target="WIyWlLk6GJQsqaUBKTNV-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="og7yTKFJyKVAj1SIktSK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="og7yTKFJyKVAj1SIktSK-10" target="4DEEwUrjy8TJI0Z5CxNt-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="565" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="og7yTKFJyKVAj1SIktSK-10" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;You draw another line the same length as the pervious line and meeting at the free end of the previous line with a 90 degree angle.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="og7yTKFJyKVAj1SIktSK-10" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;You draw another line the same length as the pervious line and meeting at the free end of the previous line with a 90 degree angle.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="430" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="og7yTKFJyKVAj1SIktSK-15" value="First, you get a piece of paper and a pencil. Then, you draw a line on the paper with the pencil. You draw another line that is the same length as the previous line, and this line meets at the end of the other line with a 90 degree angle. Repeat that with the newly drawn line. Connect the most recently drawn line with the first line.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="og7yTKFJyKVAj1SIktSK-15" value="First, you get a piece of paper and a pencil. Then, you draw a line on the paper with the pencil. You draw another line that is the same length as the previous line, and this line meets at the end of the other line with a 90 degree angle. Repeat that with the newly drawn line. Connect the most recently drawn line with the first line.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="210" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4DEEwUrjy8TJI0Z5CxNt-0" value="Color?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4DEEwUrjy8TJI0Z5CxNt-1" value="fill in color" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DEEwUrjy8TJI0Z5CxNt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4DEEwUrjy8TJI0Z5CxNt-2" target="4DEEwUrjy8TJI0Z5CxNt-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4DEEwUrjy8TJI0Z5CxNt-2" value="Connect the previous line and the first line at their free ends." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DEEwUrjy8TJI0Z5CxNt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.442;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4DEEwUrjy8TJI0Z5CxNt-0" target="4DEEwUrjy8TJI0Z5CxNt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4DEEwUrjy8TJI0Z5CxNt-5" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DEEwUrjy8TJI0Z5CxNt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4DEEwUrjy8TJI0Z5CxNt-0" target="4DEEwUrjy8TJI0Z5CxNt-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
